@@ -1,0 +1,7 @@
+
+if (wfTask == ('License Issuance') && wfStatus == ('Approved') && balanceDue > 0) {
+ showMessage = true;
+ cancel = true;
+ comment('Cannot issue this license with a balance greater than zero');
+ }
+

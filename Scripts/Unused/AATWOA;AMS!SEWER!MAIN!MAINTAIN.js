@@ -1,0 +1,3 @@
+
+createCAForWOAssetsByAssetID(capId,AssetSeqNumber);
+
