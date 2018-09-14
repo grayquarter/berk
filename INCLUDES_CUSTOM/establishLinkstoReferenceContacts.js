@@ -1,4 +1,4 @@
-function establish Links to Reference Contacts() {
+function establishLinkstoReferenceContacts() {
 
 iArr = new Array();
 // attributes to ignore;
